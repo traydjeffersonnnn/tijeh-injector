@@ -1,0 +1,7 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+ObisiaAspirants.zip filter=lfs diff=lfs merge=lfs -text
+ObisiaAspirantsv2.zip filter=lfs diff=lfs merge=lfs -text
+//android/app/build/
+/build/
+*.apk
+*.so
